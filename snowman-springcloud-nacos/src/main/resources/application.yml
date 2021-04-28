@@ -1,0 +1,12 @@
+server:
+  port: 8082
+spring:
+  application:
+    name: snowman-springcloud-nacos
+snowman:
+  prop:
+    name: springcloud-nacos
+    chunk: 25
+    mode: uuid
+    group-id: springcloud-nacos
+    server-id: nacos-1

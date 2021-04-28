@@ -16,6 +16,7 @@
 
     <modules>
         <module>snowman-springboot-example</module>
+        <module>snowman-springcloud-nacos</module>
     </modules>
 
     <properties>
